@@ -13,6 +13,7 @@ function Home() {
       <h1>Home Page</h1>
       <Link href={'/blog'} >Blog</Link>{' | '}
       <Link href={'/product'} >Products</Link>
+      <Link href={'/users'} >Users</Link>
       <p>
         this is our <em>secenrio 1</em> where root page is shown
       </p>
