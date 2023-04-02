@@ -14,7 +14,8 @@ function Home() {
       <Link href={'/blog'} >Blog</Link>{' | '}
       <Link href={'/product'} >Products</Link>{' | '}
       <Link href={'/users'} >Users</Link>{' | '}
-      <Link href={'/posts'} >Posts</Link>
+      <Link href={'/posts'} >Posts</Link>{ ' | '}
+      <Link href={'/products'} >Fake Json Products</Link>{' | '}
       <p>
         this is our <em>secenrio 1</em> where root page is shown
       </p>
