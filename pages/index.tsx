@@ -16,6 +16,10 @@ function Home() {
       <Link href={'/users'} >Users</Link>{' | '}
       <Link href={'/posts'} >Posts</Link>{ ' | '}
       <Link href={'/products'} >Fake Json Products</Link>{' | '}
+      <Link href={'/news'} >News</Link>{' | '}
+      <Link href={'/dashboard'} >Dashboard</Link>{' | '}
+      <Link href={'/dashboard-swr'} >SWR Dashboard</Link>{' | '}
+      <Link href={'/events'} >Go to Events</Link>{' | '}
       <p>
         this is our <em>secenrio 1</em> where root page is shown
       </p>
